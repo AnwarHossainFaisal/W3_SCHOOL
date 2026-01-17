@@ -103,6 +103,62 @@ print(a)
 print(b)
 print(c)
 # op:
+# Orange
+# Orange
+# Orange
 
 
+# Unpack a Collection
+fruits = ["apple", "banana", "cherry"]
+a, b, c = fruits
+print(a)
+print(b)
+print(c)
+# op:
+# apple
+# banana
+# cherry
+
+
+
+# Python - Output Variables
+# Output Variables
+a = "pyrhon is awesome"
+print(a)
+
+
+a = "pthon"
+b = "is"
+c = "awesome"
+
+print(a, b, c)
+
+# You can also use the + operator to output multiple variables:
+a = 'python '
+b = 'is '
+c = 'awesome'
+print(a + b + c)
+# op:python is awesome
+
+# For numbers, the + character works as a mathematical operator:
+a = 5
+b = 7
+print(a + b)
+# op:12
+print(33 + 55)
+
+# In the print() function, when you try to combine a string and a number with the + operator, Python will give you an error:
+# a = 5
+# b = "awesome"
+# print(a + b)
+# op:TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+# right
+a = 3
+b = "nice"
+print(a, b)
+# op: 3 nice
+
+
+# Python - Global Variables
 
