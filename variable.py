@@ -83,6 +83,26 @@ Myvariablename = 'jhon'
 my_variavle_name = 'jhon'
 
 
+# Python Variables - Assign Multiple Values
+
+# Many Values to Multiple Variables
+
+a, b, c = "orange", "banana", "cherry"
+print(a)
+print(b)
+print(c)
+
+# orange
+# banana
+# cherry
+
+
+# One Value to Multiple Variables
+a = b = c = "Orange"
+print(a)
+print(b)
+print(c)
+# op:
 
 
 
