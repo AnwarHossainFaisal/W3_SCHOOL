@@ -161,4 +161,19 @@ print(a, b)
 
 
 # Python - Global Variables
+a = "awesome"
 
+def myfunc():
+    print("python is " + a)
+    
+myfunc()
+
+
+# Create a variable inside a function, with the same name as the global variable
+a = "awesome"
+def my_func():
+    a = "fantastic"
+    print("python is " + a)
+my_func()
+
+print("python is " + a)
