@@ -58,3 +58,43 @@ print(y)
 # single comment
 
 
+
+
+# Python Statements
+print("python is fun")
+
+
+# Many Statements
+print("Hello world")
+print("have a good day")
+print("learning python is fun")
+
+
+# Semicolons (Optional, Rarely Used)
+print("hello"); print("how are you"); print("good bye")
+#    output: Hello world
+#     have a good day
+#     learning python is fun
+
+
+
+# SyntaxError: invalid syntax
+# print("python is fun") print("really")
+
+# output(File "f:\W3_SCHOOL\fast.py", line 82
+#     print("python is fun") print("really")
+#                            ^^^^^
+# SyntaxError: invalid syntax
+# , header='Set-Cookie:')
+
+
+
+# Python Output / Print
+print("Hello world")
+
+
+print("Hello world")
+print("i am learnig python")
+print("it is awesome")
+
+
