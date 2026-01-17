@@ -98,3 +98,31 @@ print("i am learnig python")
 print("it is awesome")
 
 
+# Double Quotes
+# print(this will cause an error)
+
+
+
+
+
+# Print Without a New Line
+
+print("hello bangladesh", end= " ")
+print("i will print on the same line")
+
+
+# Python Output Numbers
+print(33)
+print(443)
+print(500000)
+
+# You can also do math inside the print() function:
+print(22 + 33)
+print(5 + 5)
+
+# Mix Text and Numbers
+print("i am",35, "years old")
+# output: i am  35 years old
+
+
+
