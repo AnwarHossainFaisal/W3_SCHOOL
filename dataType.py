@@ -46,3 +46,14 @@ a = frozenset({"apple", "banana", "cherry"}) #frozenset
 a = True #bool
 a = False #bool
 
+
+# Binary Type 
+a = b"Hello" #byte
+a = bytearray(5) #bytearray
+a = memoryview(bytes(5)) #memoryview
+
+# None type 
+a = None #NoneType
+
+
+
