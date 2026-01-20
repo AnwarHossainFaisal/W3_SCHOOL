@@ -22,6 +22,27 @@ x = "Hello"
 print(type(x))
 # op: "str"
 
+# text type 
+a = "Hello World" #str
+# numeric type 
+
+a = 200 #int
+a = 30.5 #float
+a = 4j #complex
+
+# sequence type 
+a = ["apple", "banana", "cherry"] #list
+a = ("apple", "banana", "cherry") #tuple
+a = (7) #range
+
+# mapping 
+a = {"nam": "jhon", "age": 22} #dict
+
+# set type
+a = {"apple", "banana", "cherry"} #set
+a = frozenset({"apple", "banana", "cherry"}) #frozenset
 
 
+a = True #bool
+a = False #bool
 
