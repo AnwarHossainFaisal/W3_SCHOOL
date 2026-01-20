@@ -24,8 +24,8 @@ print(type(x))
 
 # text type 
 a = "Hello World" #str
-# numeric type 
 
+# numeric type 
 a = 200 #int
 a = 30.5 #float
 a = 4j #complex
@@ -54,6 +54,9 @@ a = memoryview(bytes(5)) #memoryview
 
 # None type 
 a = None #NoneType
+
+
+
 
 
 
