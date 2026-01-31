@@ -54,3 +54,18 @@ z = 1j
 print(type(x))
 print(type(y))
 print(type(z))
+
+
+
+
+# Type Conversion
+a = 1
+b = 2.90
+c = 1j
+
+A = float(a)
+A = int(b)
+C = complex(c)
+print(A)
+print(C)
+print(C)
