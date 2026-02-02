@@ -69,3 +69,11 @@ C = complex(c)
 print(A)
 print(C)
 print(C)
+
+
+# Random Number
+import random
+print(random.randrange(1, 10))
+
+
+
