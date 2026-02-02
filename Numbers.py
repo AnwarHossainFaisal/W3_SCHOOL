@@ -77,3 +77,58 @@ print(random.randrange(1, 10))
 
 
 
+# Python Casting
+
+# integers
+a = int(1)
+b = int(3.9)
+c = int("5")
+
+
+print(a)
+print(b)
+print(c)
+
+
+# op: 1
+# 3
+# 5
+
+# float  
+a = float(1)
+b = float(3.5)
+c = float("3")
+d = float("4.5")
+
+
+print(a)
+print(b)
+print(c)
+print(d)
+
+
+# op: 
+# 1.0
+# 3.5
+# 3.0
+# 4.5
+
+
+# string 
+a = str("s1")
+b = str(3)
+c = str(5.3)
+
+
+print(type(a))
+print(type(b))
+print(type(c))
+
+
+# op:
+
+# <class 'str'>
+# <class 'str'>
+# <class 'str'>
+
+
