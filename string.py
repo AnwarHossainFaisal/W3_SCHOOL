@@ -289,6 +289,35 @@ print(txt)
 
 
 
+# Python - Escape Characters
+# Escape Character
+
+# txt = "we are the so called "bikings" from the north "
+# op: 
+# SyntaxError: invalid syntax. Is this intended to be part of the string?
+
+
+
+
+
+
+txt = " we are the so colded \"vikings\" from the north."
+print(txt)
+# op:
+#  we are the so colded "vikings" from the north.
+
+
+
+txt = 'it\'s alright' 
+print(txt)
+# op:
+# it's alright
+
+
+
+
+
+
 
 
 
