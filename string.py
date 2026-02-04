@@ -206,7 +206,10 @@ print(a.split(","))
 
 
 # Python - String Concatenation
-
+a = "Hello "
+b = "World"
+c = a + b
+print(c)
 
 
 
