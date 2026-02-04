@@ -211,6 +211,87 @@ b = "World"
 c = a + b
 print(c)
 
+a = "hello"
+b = "world"
+c = a + " " + b
+print(c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Python - Format - Strings
+
+# String Format
+
+# As we learned in the Python Variables chapter, we cannot combine strings and numbers like this:
+
+# age = 35
+# txt = "my name is Jhon, I am " + age
+# print(txt)
+# op:
+# TypeError: can only concatenate str (not "int") to str
+
+
+
+
+# F-Strings
+age = 55
+txt = f"my neme is jhon, and i am {age} years old"
+print(txt)
+# op:
+# my neme is jhon, and i am 55 years old
+
+
+# Placeholders and Modifiers
+price = 45
+txt = f"the price is {price} dollars"
+print(txt)
+
+# op:
+# the price is 45 dollars
+
+
+
+
+
+
+price = 53
+txt = f"the price is {price:.2f} dollars"
+print(txt)
+# output: the price is 53.00 dollars
+
+
+
+
+
+txt = f"the priceis {20 * 59} dollars"
+print(txt)
+# op:
+# the priceis 1180 dollars
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
