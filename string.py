@@ -312,6 +312,8 @@ txt = 'it\'s alright'
 print(txt)
 # op:
 # it's alright
+txt = 'it\'s alright'
+print(txt)
 
 
 
