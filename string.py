@@ -317,6 +317,29 @@ print(txt)
 
 
 
+txt = "thsi will insert one \\\\."
+print(txt)
+
+
+
+
+txt = "Hello\nworld"
+print(txt)
+
+
+txt = "hello\rfahim"
+print(txt)
+
+
+
+txt = "hello\tworld"
+print(txt)
+
+
+txt = "hello \bworld"
+print(txt)
+
+
 
 
 
