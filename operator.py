@@ -52,7 +52,23 @@ print(a / b)
 a = 33
 b = 5
 print(a // b)
+# op:
+# 6
 
 
+print(15 % 4 )
+# op:
+# 3
+
+
+
+# Python Assignment Operators
+# Assignment Operators
+
+a = 55
+print(a)
+# op: 55
+
+a += 5
 
 
