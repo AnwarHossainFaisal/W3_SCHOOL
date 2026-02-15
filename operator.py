@@ -65,11 +65,4 @@ print(15 % 4 )
 # Python Assignment Operators
 # Assignment Operators
 
-a = 55
-print(a)
-# op: 55
-
-a += 5
-
-
-a +=3 
+# =, +=, -=, *=, /=, %=, //=, **=, &=, !=, |=, ^=, >>=, <<=, 
